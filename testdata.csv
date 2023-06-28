@@ -1,0 +1,5 @@
+example, sky, temp, humidity, wind, water, forecast, enjoy
+1, sunny, warm, normal, strong, warm, same, yes
+2, sunny, warm, high, strong, warm, same, yes
+3, rainy, cold, normal, strong, warm, change, yes
+4, sunny, warm, normal, strong, cool, change, yes
